@@ -14,6 +14,7 @@ Katelin Frederick 2018
 * CSS
 * JavaScript
 * React
+* IMDb API
 
 
 ## Purpose of this Project
