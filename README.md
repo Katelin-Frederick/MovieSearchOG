@@ -1,4 +1,4 @@
-# threejsNavDemo
+# Movie Search
 IMDb Movie Search
 
 ## Description
