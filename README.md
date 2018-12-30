@@ -1,5 +1,5 @@
 # threejsNavDemo
-Navigation using three.js
+IMDb Movie Search
 
 ## Description
 
